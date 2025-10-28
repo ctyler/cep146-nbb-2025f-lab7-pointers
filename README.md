@@ -5,7 +5,7 @@ To build this program:
    make
 
 Note: older commits in this repository need
-to be build with:
+to be built with:
 
    make test001
 
