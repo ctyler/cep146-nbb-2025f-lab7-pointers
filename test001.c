@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[]) {
 	int *res;
-	printf("This is a test message.\n");
+	printf("Program was called without any additional arguments.\n");
 	if (argc>1) {
 		res = &argc;
 		res += 10000;
