@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[]) {
 	int *res;
-	printf("This is a demo of pointer math in C.");
+	printf("This is a demo of pointer math in C.\n");
 	if (argc>1) {
 		res = &argc;
 		res += 10000;
