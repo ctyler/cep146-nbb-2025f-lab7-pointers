@@ -14,3 +14,5 @@ To try the program:
 1. Run it with no arguments:        ./test001
 2. Run it with several arguments:   ./test001 yes no maybe
 
+**There appears to be an issue with the current version:
+when run with multiple arguments, it segfaults.**
